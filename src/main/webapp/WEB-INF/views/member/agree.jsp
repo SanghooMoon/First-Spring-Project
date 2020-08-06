@@ -34,14 +34,14 @@
                             <div class="doc-title">
                                 <h3>회원가입 - 약관동의</h3>
                                 <p>
-                                    <img src="../images/incheon_sub_line.png" >
+                                    <img src="/resources/images/incheon_sub_line.png" >
                                 </p>
                             </div>
                         </div>
                         <div class="doc-body">
                             <div class="body">
                                 <div id="agree-wrap">
-                                    <img src="../images/member_step1_img.jpg" alt="">
+                                    <img src="/resources/images/member_step1_img.jpg" alt="">
                                     <p>회원서비스를 이용하기 위해서는 <span>아래의 이용약관 개인정보수집·이용에 동의하셔야 합니다.</span></p>
                                     <h4>이용약관 동의</h4>
                                     <div class="agree-box">

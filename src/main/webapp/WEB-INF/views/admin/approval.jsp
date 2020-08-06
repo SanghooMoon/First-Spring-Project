@@ -56,7 +56,7 @@
 				</c:forEach>
 			</table>	
 			<div class="buttons">
-				<button type="button" onclick="doApproval();">가입 승인</button>
+				<button type="button" onclick="location.href='/admin/update/approval'";>가입 승인</button>
 				<button type="button" onclick="doReject();">가입 취소</button>
 			</div>
 		</form>

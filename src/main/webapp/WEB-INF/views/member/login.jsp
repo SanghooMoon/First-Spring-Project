@@ -28,8 +28,6 @@
 					<ul class="subMenu">
 						<li><a href="/member/login"><span>로그인</span></a></li>
 						<li><a href="/member/agree"><span>회원가입</span></a></li>
-						<li><a href="../member/id_find.html"><span>아이디찾기</span></a></li>
-						<li><a href="../member/pwd_find.html"><span>비밀번호찾기</span></a></li>
 					</ul>
 				</div>
 				<div class="content">
@@ -38,7 +36,7 @@
 							<div class="doc-title">
 								<h3>로그인</h3>
 								<p>
-									<img src="../images/incheon_sub_line.png">
+									<img src="/resources/images/incheon_sub_line.png">
 								</p>
 							</div>
 						</div>

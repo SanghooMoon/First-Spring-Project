@@ -9,11 +9,13 @@ public class HomeController {
 	
 	@RequestMapping(value = "/")
 	public String index() {
+		
 		return "index";
 	}
 	
 	@RequestMapping(value = "/index")
 	public String index2() {
+		System.out.println("index2()");
 		return "index";
 	}
 	
