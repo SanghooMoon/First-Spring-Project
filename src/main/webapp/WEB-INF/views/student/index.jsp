@@ -3,13 +3,13 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>LMS</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+	
+	<h1>학생 메인페이지</h1>
+	<a href="member/login">로그인</a>
+	<a href="member/register">회원가입</a>
+	
 </body>
 </html>
